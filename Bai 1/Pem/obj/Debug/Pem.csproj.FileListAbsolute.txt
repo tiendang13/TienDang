@@ -1,0 +1,9 @@
+c:\users\thong\documents\visual studio 2013\Projects\Pem\Pem\bin\Debug\Pem.exe.config
+c:\users\thong\documents\visual studio 2013\Projects\Pem\Pem\bin\Debug\Pem.exe
+c:\users\thong\documents\visual studio 2013\Projects\Pem\Pem\bin\Debug\Pem.pdb
+c:\users\thong\documents\visual studio 2013\Projects\Pem\Pem\obj\Debug\Pem.csprojResolveAssemblyReference.cache
+c:\users\thong\documents\visual studio 2013\Projects\Pem\Pem\obj\Debug\Pem.Properties.Resources.resources
+c:\users\thong\documents\visual studio 2013\Projects\Pem\Pem\obj\Debug\Pem.csproj.GenerateResource.Cache
+c:\users\thong\documents\visual studio 2013\Projects\Pem\Pem\obj\Debug\Pem.exe
+c:\users\thong\documents\visual studio 2013\Projects\Pem\Pem\obj\Debug\Pem.pdb
+c:\users\thong\documents\visual studio 2013\Projects\Pem\Pem\obj\Debug\Pem.Form1.resources
